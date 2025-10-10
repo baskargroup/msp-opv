@@ -1,0 +1,25 @@
+# d1..d24 map to your full feature names
+c1:  log_n
+c2:  log_p
+c3:  log_taux
+d1:  STAT_e
+d2:  STAT_n_D
+d3:  STAT_n_A
+d4:  STAT_CC_D
+d5:  STAT_CC_A
+d6:  STAT_CC_D_An
+d7:  STAT_CC_A_Ca
+d8:  ABS_wf_D
+d9:  ABS_f_D
+d10: DISS_wf10_D
+d11: DISS_f10_D
+d12: CT_f_e_conn
+d13: CT_f_conn_D_An
+d14: CT_f_conn_A_Ca
+d15: CT_e_conn
+d16: CT_e_D_An
+d17: CT_e_A_Ca
+d18: CT_f_D_tort1
+d19: CT_f_A_tort1
+d20: CT_n_D_adj_An
+d21: CT_n_A_adj_Ca
