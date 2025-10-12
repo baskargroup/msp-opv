@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore folder figures
+figures/
+notebooks/tmp*
+
+
 # Distribution / packaging
 .Python
 build/
